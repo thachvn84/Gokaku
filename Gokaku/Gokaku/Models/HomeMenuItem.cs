@@ -6,7 +6,7 @@ namespace Gokaku.Models
 {
     public enum MenuItemType
     {
-        Browse,
+        LevelSelect,
         About
     }
     public class HomeMenuItem
